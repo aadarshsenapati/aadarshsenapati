@@ -21,8 +21,9 @@ jobs:
 
       - name: Push to output branch
         run: |
-          sudo chown -R "$USER:$USER" dist
-          cd dist
+          mkdir snake-out
+          cp dist/*.svg snake-out/
+          cd snake-out
           git init
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
