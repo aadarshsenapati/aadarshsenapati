@@ -141,9 +141,20 @@ Real-time tick pipeline (10K+ ticks/hr) via FYERS WebSockets; neural net trained
 ## 📊 GitHub Stats
 
 <div align="center">
+
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=aadarshsenapati&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff&rank_icon=github"/>
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadarshsenapati&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=ffffff"/>
+
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=aadarshsenapati&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=FF6B6B&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888)](https://git.io/streak-stats)
+
 </div>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/aadarshsenapati/aadarshsenapati/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</div>
+
 
 ---
 
