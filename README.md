@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Aadarsh%20Senapati&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20%2B%20Applied%20AI%20Engineer&descAlignY=60&descSize=16&animation=fadeIn"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&lines=CS+Undergrad+%40+SRM+AP+%7C+CGPA+9.31%2F10;Full-Stack+%7C+Applied+AI+%7C+Data+Engineering)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&lines=CS+Undergrad+%40+SRM+AP;Full-Stack+%7C+Applied+AI+%7C+Data+Engineering)](https://git.io/typing-svg)
 
 <br/>
 
@@ -21,7 +21,6 @@
 class Aadarsh:
     name          = "Aadarsh Senapati"
     university    = "SRM University AP, B.Tech CS (Big Data Analytics)"
-    cgpa          = 9.31
     focus         = ["Full-Stack Engineering", "Applied AI / RAG", "Data Systems"]
     currently     = "Building production-shaped systems, not just demos"
     ask_me_about  = ["RAG pipelines", "REST API design", "Statement parsing", "System design"]
